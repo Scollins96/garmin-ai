@@ -671,23 +671,42 @@ with tab4:
     st.markdown("Predictions use two methods: **Riegel formula** (from your actual runs) "
                 "and **Jack Daniels VO2max** (from your fitness score).")
 
-    long_runs = runs_df[runs_df["distance_km"] >= 8].sort_values("date", ascending=False)
     latest_vo2 = runs_df["vo2max"].dropna().iloc[-1] if runs_df["vo2max"].notna().any() else None
+
+    # Run selector — default to best-effort run (fastest pace among moderate/tempo, >= 5 km)
+    eligible = runs_df[
+        (runs_df["distance_km"] >= 5) &
+        (runs_df["run_type"].isin(["Tempo / Hard", "Moderate", "Long Run"])) &
+        runs_df["pace_min_km"].notna()
+    ].copy()
+    if eligible.empty:
+        eligible = runs_df[runs_df["distance_km"] >= 5].copy()
+
+    eligible = eligible.sort_values("pace_min_km")  # fastest first
+    eligible["label"] = eligible.apply(
+        lambda r: f"{r['date'].strftime('%d %b %Y')} — {r['name']} "
+                  f"({r['distance_km']:.1f} km @ {pace_str(r['pace_min_km'])} · {r['run_type']})",
+        axis=1,
+    )
+
+    st.markdown("**Base run for Riegel prediction** — defaults to your fastest effort run. "
+                "Change to any run you like:")
+    selected_label = st.selectbox(
+        "Select run",
+        options=eligible["label"].tolist(),
+        label_visibility="collapsed",
+    )
+    selected_run = eligible[eligible["label"] == selected_label].iloc[0]
 
     col_a, col_b, col_c = st.columns(3)
 
     # Riegel prediction
     with col_a:
         st.markdown("#### Riegel prediction")
-        if not long_runs.empty:
-            best = long_runs.iloc[0]
-            hm_min = riegel_predict(best["duration_min"], best["distance_km"])
-            st.metric("Predicted HM time", seconds_to_hms(hm_min * 60))
-            st.caption(f"Based on {best['distance_km']:.1f} km run on "
-                       f"{best['date'].strftime('%d %b')} "
-                       f"({pace_str(best['pace_min_km'])})")
-        else:
-            st.info("Need a run ≥ 8 km for Riegel prediction.")
+        hm_min = riegel_predict(selected_run["duration_min"], selected_run["distance_km"])
+        st.metric("Predicted HM time", seconds_to_hms(hm_min * 60))
+        st.caption(f"{selected_run['distance_km']:.1f} km @ {pace_str(selected_run['pace_min_km'])} "
+                   f"on {selected_run['date'].strftime('%d %b')}")
 
     # Daniels VO2max prediction
     with col_b:
@@ -701,18 +720,14 @@ with tab4:
 
     # Consensus
     with col_c:
-        st.markdown("#### Race pace")
-        predictions = []
-        if not long_runs.empty:
-            predictions.append(riegel_predict(long_runs.iloc[0]["duration_min"],
-                                              long_runs.iloc[0]["distance_km"]))
+        st.markdown("#### Target race pace")
+        predictions = [hm_min]
         if latest_vo2:
             predictions.append(vo2max_to_hm_prediction(latest_vo2))
-        if predictions:
-            avg_min = sum(predictions) / len(predictions)
-            pace_hm = avg_min / 21.0975
-            st.metric("Target race pace", pace_str(pace_hm))
-            st.caption("Average of available predictions")
+        avg_min = sum(predictions) / len(predictions)
+        pace_hm = avg_min / 21.0975
+        st.metric("Race pace", pace_str(pace_hm))
+        st.caption("Average of available predictions")
 
     # Training zones
     if latest_vo2:
