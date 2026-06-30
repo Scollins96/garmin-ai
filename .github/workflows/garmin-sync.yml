@@ -5,6 +5,9 @@ on:
     - cron: "0 10 * * *"  # 10:00 UTC daily — adjust for your timezone
   workflow_dispatch: {}
 
+permissions:
+  contents: write
+
 jobs:
   sync:
     runs-on: ubuntu-latest
