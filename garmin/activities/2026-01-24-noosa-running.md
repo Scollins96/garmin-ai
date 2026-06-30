@@ -1,0 +1,11 @@
+# Noosa Running
+- Type: running
+- Date: 2026-01-24
+- Duration: 30m 41s
+- Distance: 5.24 km
+- Calories: 424.0
+- Avg HR: 164.0 bpm
+- Max HR: 182.0 bpm
+- Aerobic TE: 4.0
+- Anaerobic TE: 0.30000001192092896
+- VO2max: 48.0

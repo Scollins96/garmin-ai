@@ -1,0 +1,11 @@
+# Gold Coast Running
+- Type: running
+- Date: 2026-02-28
+- Duration: 40m 31s
+- Distance: 7.03 km
+- Calories: 551.0
+- Avg HR: 166.0 bpm
+- Max HR: 186.0 bpm
+- Aerobic TE: 4.300000190734863
+- Anaerobic TE: 0.20000000298023224
+- VO2max: 48.0

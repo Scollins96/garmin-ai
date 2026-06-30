@@ -1,0 +1,2958 @@
+{
+  "wellness": {
+    "2026-01-03": {
+      "steps": 3258,
+      "calories": 2465.0,
+      "distance_m": 2720,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 10,
+      "body_battery_high": 56,
+      "stress_avg": 31,
+      "date": "2026-01-03"
+    },
+    "2026-01-04": {
+      "steps": 7481,
+      "calories": 2880.0,
+      "distance_m": 6212,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 10,
+      "body_battery_high": 40,
+      "stress_avg": 52,
+      "date": "2026-01-04"
+    },
+    "2026-01-05": {
+      "steps": 6650,
+      "calories": 2540.0,
+      "distance_m": 5532,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 0,
+      "body_battery_high": 40,
+      "stress_avg": 41,
+      "date": "2026-01-05"
+    },
+    "2026-01-06": {
+      "steps": 6270,
+      "calories": 2477.0,
+      "distance_m": 5192,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 0,
+      "body_battery_high": 77,
+      "stress_avg": 46,
+      "date": "2026-01-06"
+    },
+    "2026-01-07": {
+      "steps": 3022,
+      "calories": 2324.0,
+      "distance_m": 2515,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 49,
+      "body_battery_high": 77,
+      "stress_avg": 37,
+      "date": "2026-01-07"
+    },
+    "2026-01-08": {
+      "steps": 15310,
+      "calories": 3521.0,
+      "distance_m": 14734,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 33,
+      "body_battery_high": 49,
+      "stress_avg": 45,
+      "date": "2026-01-08"
+    },
+    "2026-01-09": {
+      "steps": 3688,
+      "calories": 2637.0,
+      "distance_m": 3093,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 33,
+      "body_battery_high": 57,
+      "stress_avg": 50,
+      "date": "2026-01-09"
+    },
+    "2026-01-10": {
+      "steps": 9306,
+      "calories": 3108.0,
+      "distance_m": 9266,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 52,
+      "body_battery_high": 57,
+      "stress_avg": 38,
+      "date": "2026-01-10"
+    },
+    "2026-01-11": {
+      "steps": 7642,
+      "calories": 2679.0,
+      "distance_m": 6674,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 13,
+      "body_battery_high": 52,
+      "stress_avg": 33,
+      "date": "2026-01-11"
+    },
+    "2026-01-12": {
+      "steps": 6029,
+      "calories": 2526.0,
+      "distance_m": 5030,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 13,
+      "body_battery_high": 68,
+      "stress_avg": 36,
+      "date": "2026-01-12"
+    },
+    "2026-01-13": {
+      "steps": 5990,
+      "calories": 2501.0,
+      "distance_m": 4960,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 68,
+      "body_battery_high": 75,
+      "stress_avg": 32,
+      "date": "2026-01-13"
+    },
+    "2026-01-14": {
+      "steps": 2715,
+      "calories": 2336.0,
+      "distance_m": 2283,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 58,
+      "body_battery_high": 75,
+      "stress_avg": 39,
+      "date": "2026-01-14"
+    },
+    "2026-01-15": {
+      "steps": 14803,
+      "calories": 3287.0,
+      "distance_m": 14081,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 49,
+      "body_battery_high": 58,
+      "stress_avg": 38,
+      "date": "2026-01-15"
+    },
+    "2026-01-16": {
+      "steps": 2479,
+      "calories": 2515.0,
+      "distance_m": 2059,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 49,
+      "body_battery_high": 63,
+      "stress_avg": 45,
+      "date": "2026-01-16"
+    },
+    "2026-01-17": {
+      "steps": 8736,
+      "calories": 3102.0,
+      "distance_m": 8706,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 63,
+      "body_battery_high": 71,
+      "stress_avg": 36,
+      "date": "2026-01-17"
+    },
+    "2026-01-18": {
+      "steps": 3871,
+      "calories": 2577.0,
+      "distance_m": 3288,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 59,
+      "body_battery_high": 71,
+      "stress_avg": 29,
+      "date": "2026-01-18"
+    },
+    "2026-01-19": {
+      "steps": 6386,
+      "calories": 2490.0,
+      "distance_m": 5293,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 59,
+      "body_battery_high": 62,
+      "stress_avg": 30,
+      "date": "2026-01-19"
+    },
+    "2026-01-20": {
+      "steps": 6619,
+      "calories": 2541.0,
+      "distance_m": 5481,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 62,
+      "body_battery_high": 64,
+      "stress_avg": 30,
+      "date": "2026-01-20"
+    },
+    "2026-01-21": {
+      "steps": 3227,
+      "calories": 2426.0,
+      "distance_m": 2690,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 64,
+      "body_battery_high": 65,
+      "stress_avg": 39,
+      "date": "2026-01-21"
+    },
+    "2026-01-22": {
+      "steps": 16420,
+      "calories": 3481.0,
+      "distance_m": 15331,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 10,
+      "body_battery_high": 65,
+      "stress_avg": 40,
+      "date": "2026-01-22"
+    },
+    "2026-01-23": {
+      "steps": 4104,
+      "calories": 2527.0,
+      "distance_m": 3428,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 10,
+      "body_battery_high": 59,
+      "stress_avg": 43,
+      "date": "2026-01-23"
+    },
+    "2026-01-24": {
+      "steps": 14657,
+      "calories": 3277.0,
+      "distance_m": 13525,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 51,
+      "body_battery_high": 59,
+      "stress_avg": 35,
+      "date": "2026-01-24"
+    },
+    "2026-01-25": {
+      "steps": 8932,
+      "calories": 2603.0,
+      "distance_m": 7481,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 51,
+      "body_battery_high": 54,
+      "stress_avg": 30,
+      "date": "2026-01-25"
+    },
+    "2026-01-26": {
+      "steps": 6077,
+      "calories": 2543.0,
+      "distance_m": 5049,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 54,
+      "body_battery_high": 65,
+      "stress_avg": 33,
+      "date": "2026-01-26"
+    },
+    "2026-01-27": {
+      "steps": 6408,
+      "calories": 2545.0,
+      "distance_m": 5340,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 65,
+      "body_battery_high": 69,
+      "stress_avg": 36,
+      "date": "2026-01-27"
+    },
+    "2026-01-28": {
+      "steps": 2381,
+      "calories": 2546.0,
+      "distance_m": 1972,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 69,
+      "body_battery_high": 70,
+      "stress_avg": 40,
+      "date": "2026-01-28"
+    },
+    "2026-01-29": {
+      "steps": 11341,
+      "calories": 2953.0,
+      "distance_m": 10652,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 64,
+      "body_battery_high": 70,
+      "stress_avg": 36,
+      "date": "2026-01-29"
+    },
+    "2026-01-30": {
+      "steps": 4474,
+      "calories": 2527.0,
+      "distance_m": 3797,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 55,
+      "body_battery_high": 64,
+      "stress_avg": 34,
+      "date": "2026-01-30"
+    },
+    "2026-01-31": {
+      "steps": 7444,
+      "calories": 3116.0,
+      "distance_m": 6230,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 55,
+      "body_battery_high": 59,
+      "stress_avg": 43,
+      "date": "2026-01-31"
+    },
+    "2026-02-01": {
+      "steps": 5516,
+      "calories": 2568.0,
+      "distance_m": 4635,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 59,
+      "body_battery_high": 64,
+      "stress_avg": 31,
+      "date": "2026-02-01"
+    },
+    "2026-02-02": {
+      "steps": 6141,
+      "calories": 2519.0,
+      "distance_m": 5232,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 54,
+      "body_battery_high": 64,
+      "stress_avg": 37,
+      "date": "2026-02-02"
+    },
+    "2026-02-03": {
+      "steps": 6122,
+      "calories": 2605.0,
+      "distance_m": 5074,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 54,
+      "body_battery_high": 56,
+      "stress_avg": 42,
+      "date": "2026-02-03"
+    },
+    "2026-02-04": {
+      "steps": 2030,
+      "calories": 2413.0,
+      "distance_m": 1713,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 56,
+      "body_battery_high": 60,
+      "stress_avg": 42,
+      "date": "2026-02-04"
+    },
+    "2026-02-05": {
+      "steps": 15636,
+      "calories": 3282.0,
+      "distance_m": 14758,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 47,
+      "body_battery_high": 60,
+      "stress_avg": 41,
+      "date": "2026-02-05"
+    },
+    "2026-02-06": {
+      "steps": 8827,
+      "calories": 3141.0,
+      "distance_m": 7447,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 47,
+      "body_battery_high": 48,
+      "stress_avg": 48,
+      "date": "2026-02-06"
+    },
+    "2026-02-07": {
+      "steps": 6023,
+      "calories": 2320.0,
+      "distance_m": 5017,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 48,
+      "body_battery_high": 63,
+      "stress_avg": 28,
+      "date": "2026-02-07"
+    },
+    "2026-02-08": {
+      "steps": 5961,
+      "calories": 2691.0,
+      "distance_m": 4990,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 63,
+      "body_battery_high": 64,
+      "stress_avg": 40,
+      "date": "2026-02-08"
+    },
+    "2026-02-09": {
+      "steps": 3764,
+      "calories": 2526.0,
+      "distance_m": 3178,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 64,
+      "body_battery_high": 69,
+      "stress_avg": 31,
+      "date": "2026-02-09"
+    },
+    "2026-02-10": {
+      "steps": 5213,
+      "calories": 2515.0,
+      "distance_m": 4339,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 46,
+      "body_battery_high": 69,
+      "stress_avg": 33,
+      "date": "2026-02-10"
+    },
+    "2026-02-11": {
+      "steps": 6136,
+      "calories": 2468.0,
+      "distance_m": 5097,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 17,
+      "body_battery_high": 46,
+      "stress_avg": 44,
+      "date": "2026-02-11"
+    },
+    "2026-02-12": {
+      "steps": 12640,
+      "calories": 3226.0,
+      "distance_m": 12460,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 17,
+      "body_battery_high": 67,
+      "stress_avg": 48,
+      "date": "2026-02-12"
+    },
+    "2026-02-13": {
+      "steps": 2915,
+      "calories": 2402.0,
+      "distance_m": 2432,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 67,
+      "body_battery_high": 77,
+      "stress_avg": 37,
+      "date": "2026-02-13"
+    },
+    "2026-02-14": {
+      "steps": 4421,
+      "calories": 2474.0,
+      "distance_m": 3662,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 66,
+      "body_battery_high": 77,
+      "stress_avg": 30,
+      "date": "2026-02-14"
+    },
+    "2026-02-15": {
+      "steps": 4485,
+      "calories": 2484.0,
+      "distance_m": 3777,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 66,
+      "body_battery_high": 71,
+      "stress_avg": 35,
+      "date": "2026-02-15"
+    },
+    "2026-02-16": {
+      "steps": 5611,
+      "calories": 2465.0,
+      "distance_m": 4664,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 71,
+      "body_battery_high": 74,
+      "stress_avg": 39,
+      "date": "2026-02-16"
+    },
+    "2026-02-17": {
+      "steps": 4342,
+      "calories": 2420.0,
+      "distance_m": 3613,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 53,
+      "body_battery_high": 74,
+      "stress_avg": 35,
+      "date": "2026-02-17"
+    },
+    "2026-02-18": {
+      "steps": 2709,
+      "calories": 2552.0,
+      "distance_m": 2266,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 48,
+      "body_battery_high": 53,
+      "stress_avg": 49,
+      "date": "2026-02-18"
+    },
+    "2026-02-19": {
+      "steps": 13831,
+      "calories": 3342.0,
+      "distance_m": 13516,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 44,
+      "body_battery_high": 48,
+      "stress_avg": 43,
+      "date": "2026-02-19"
+    },
+    "2026-02-20": {
+      "steps": 2463,
+      "calories": 2440.0,
+      "distance_m": 2040,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 4,
+      "body_battery_high": 44,
+      "stress_avg": 46,
+      "date": "2026-02-20"
+    },
+    "2026-02-21": {
+      "steps": 13279,
+      "calories": 3419.0,
+      "distance_m": 12817,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 4,
+      "body_battery_high": 66,
+      "stress_avg": 46,
+      "date": "2026-02-21"
+    },
+    "2026-02-22": {
+      "steps": 5532,
+      "calories": 2552.0,
+      "distance_m": 4629,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 66,
+      "body_battery_high": 67,
+      "stress_avg": 31,
+      "date": "2026-02-22"
+    },
+    "2026-02-23": {
+      "steps": 10187,
+      "calories": 2836.0,
+      "distance_m": 8788,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 60,
+      "body_battery_high": 67,
+      "stress_avg": 40,
+      "date": "2026-02-23"
+    },
+    "2026-02-24": {
+      "steps": 6995,
+      "calories": 2507.0,
+      "distance_m": 5793,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 60,
+      "body_battery_high": 71,
+      "stress_avg": 34,
+      "date": "2026-02-24"
+    },
+    "2026-02-25": {
+      "steps": 2804,
+      "calories": 2419.0,
+      "distance_m": 2334,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 61,
+      "body_battery_high": 71,
+      "stress_avg": 43,
+      "date": "2026-02-25"
+    },
+    "2026-02-26": {
+      "steps": 15194,
+      "calories": 3134.0,
+      "distance_m": 14553,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 53,
+      "body_battery_high": 61,
+      "stress_avg": 33,
+      "date": "2026-02-26"
+    },
+    "2026-02-27": {
+      "steps": 1565,
+      "calories": 2280.0,
+      "distance_m": 1308,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 53,
+      "body_battery_high": 61,
+      "stress_avg": 34,
+      "date": "2026-02-27"
+    },
+    "2026-02-28": {
+      "steps": 12480,
+      "calories": 3065.0,
+      "distance_m": 12180,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 55,
+      "body_battery_high": 61,
+      "stress_avg": 36,
+      "date": "2026-02-28"
+    },
+    "2026-03-01": {
+      "steps": 4129,
+      "calories": 2401.0,
+      "distance_m": 3430,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 54,
+      "body_battery_high": 55,
+      "stress_avg": 32,
+      "date": "2026-03-01"
+    },
+    "2026-03-02": {
+      "steps": 9609,
+      "calories": 2801.0,
+      "distance_m": 8349,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 54,
+      "body_battery_high": 74,
+      "stress_avg": 36,
+      "date": "2026-03-02"
+    },
+    "2026-03-03": {
+      "steps": 6524,
+      "calories": 2438.0,
+      "distance_m": 5403,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 66,
+      "body_battery_high": 74,
+      "stress_avg": 34,
+      "date": "2026-03-03"
+    },
+    "2026-03-04": {
+      "steps": 2864,
+      "calories": 2341.0,
+      "distance_m": 2390,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 66,
+      "body_battery_high": 67,
+      "stress_avg": 38,
+      "date": "2026-03-04"
+    },
+    "2026-03-05": {
+      "steps": 14729,
+      "calories": 3134.0,
+      "distance_m": 14151,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 49,
+      "body_battery_high": 67,
+      "stress_avg": 35,
+      "date": "2026-03-05"
+    },
+    "2026-03-06": {
+      "steps": 3036,
+      "calories": 2334.0,
+      "distance_m": 2546,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 49,
+      "body_battery_high": 79,
+      "stress_avg": 42,
+      "date": "2026-03-06"
+    },
+    "2026-03-07": {
+      "steps": 7456,
+      "calories": 2528.0,
+      "distance_m": 6184,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 64,
+      "body_battery_high": 79,
+      "stress_avg": 26,
+      "date": "2026-03-07"
+    },
+    "2026-03-08": {
+      "steps": 5749,
+      "calories": 2479.0,
+      "distance_m": 4780,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 16,
+      "body_battery_high": 64,
+      "stress_avg": 29,
+      "date": "2026-03-08"
+    },
+    "2026-03-09": {
+      "steps": 5571,
+      "calories": 2427.0,
+      "distance_m": 4642,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 16,
+      "body_battery_high": 67,
+      "stress_avg": 50,
+      "date": "2026-03-09"
+    },
+    "2026-03-10": {
+      "steps": 7230,
+      "calories": 2501.0,
+      "distance_m": 5987,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 53,
+      "body_battery_high": 67,
+      "stress_avg": 37,
+      "date": "2026-03-10"
+    },
+    "2026-03-11": {
+      "steps": 1665,
+      "calories": 2290.0,
+      "distance_m": 1419,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 53,
+      "body_battery_high": 54,
+      "stress_avg": 39,
+      "date": "2026-03-11"
+    },
+    "2026-03-12": {
+      "steps": 14855,
+      "calories": 3178.0,
+      "distance_m": 14225,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 54,
+      "body_battery_high": 60,
+      "stress_avg": 34,
+      "date": "2026-03-12"
+    },
+    "2026-03-13": {
+      "steps": 4126,
+      "calories": 2491.0,
+      "distance_m": 3490,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 60,
+      "body_battery_high": 64,
+      "stress_avg": 40,
+      "date": "2026-03-13"
+    },
+    "2026-03-14": {
+      "steps": 8271,
+      "calories": 2549.0,
+      "distance_m": 6889,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 37,
+      "body_battery_high": 64,
+      "stress_avg": 28,
+      "date": "2026-03-14"
+    },
+    "2026-03-15": {
+      "steps": 6740,
+      "calories": 2503.0,
+      "distance_m": 5632,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 8,
+      "body_battery_high": 37,
+      "stress_avg": 32,
+      "date": "2026-03-15"
+    },
+    "2026-03-16": {
+      "steps": 9484,
+      "calories": 2817.0,
+      "distance_m": 5968,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 8,
+      "body_battery_high": 69,
+      "stress_avg": 48,
+      "date": "2026-03-16"
+    },
+    "2026-03-17": {
+      "steps": 5916,
+      "calories": 2434.0,
+      "distance_m": 4899,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 58,
+      "body_battery_high": 69,
+      "stress_avg": 34,
+      "date": "2026-03-17"
+    },
+    "2026-03-18": {
+      "steps": 3108,
+      "calories": 2443.0,
+      "distance_m": 2592,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 42,
+      "body_battery_high": 58,
+      "stress_avg": 45,
+      "date": "2026-03-18"
+    },
+    "2026-03-19": {
+      "steps": 14673,
+      "calories": 3178.0,
+      "distance_m": 14137,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 42,
+      "body_battery_high": 42,
+      "stress_avg": 38,
+      "date": "2026-03-19"
+    },
+    "2026-03-20": {
+      "steps": 2688,
+      "calories": 2382.0,
+      "distance_m": 2303,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 42,
+      "body_battery_high": 61,
+      "stress_avg": 43,
+      "date": "2026-03-20"
+    },
+    "2026-03-21": {
+      "steps": 10742,
+      "calories": 3140.0,
+      "distance_m": 10421,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 54,
+      "body_battery_high": 61,
+      "stress_avg": 36,
+      "date": "2026-03-21"
+    },
+    "2026-03-22": {
+      "steps": 7834,
+      "calories": 2646.0,
+      "distance_m": 6514,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 37,
+      "body_battery_high": 54,
+      "stress_avg": 37,
+      "date": "2026-03-22"
+    },
+    "2026-03-23": {
+      "steps": 8988,
+      "calories": 2645.0,
+      "distance_m": 7532,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 12,
+      "body_battery_high": 37,
+      "stress_avg": 40,
+      "date": "2026-03-23"
+    },
+    "2026-03-24": {
+      "steps": 19804,
+      "calories": 3512.0,
+      "distance_m": 19742,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 12,
+      "body_battery_high": 52,
+      "stress_avg": 46,
+      "date": "2026-03-24"
+    },
+    "2026-03-25": {
+      "steps": 3209,
+      "calories": 2415.0,
+      "distance_m": 2692,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 52,
+      "body_battery_high": 68,
+      "stress_avg": 43,
+      "date": "2026-03-25"
+    },
+    "2026-03-26": {
+      "steps": 5642,
+      "calories": 2427.0,
+      "distance_m": 4672,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 54,
+      "body_battery_high": 68,
+      "stress_avg": 35,
+      "date": "2026-03-26"
+    },
+    "2026-03-27": {
+      "steps": 4130,
+      "calories": 2548.0,
+      "distance_m": 3444,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 54,
+      "body_battery_high": 58,
+      "stress_avg": 45,
+      "date": "2026-03-27"
+    },
+    "2026-03-28": {
+      "steps": 13617,
+      "calories": 3343.0,
+      "distance_m": 11300,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 26,
+      "body_battery_high": 58,
+      "stress_avg": 46,
+      "date": "2026-03-28"
+    },
+    "2026-03-29": {
+      "steps": 6107,
+      "calories": 2516.0,
+      "distance_m": 5074,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 26,
+      "body_battery_high": 78,
+      "stress_avg": 37,
+      "date": "2026-03-29"
+    },
+    "2026-03-30": {
+      "steps": 10393,
+      "calories": 2769.0,
+      "distance_m": 9045,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 50,
+      "body_battery_high": 78,
+      "stress_avg": 35,
+      "date": "2026-03-30"
+    },
+    "2026-03-31": {
+      "steps": 13482,
+      "calories": 3114.0,
+      "distance_m": 13351,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 11,
+      "body_battery_high": 50,
+      "stress_avg": 36,
+      "date": "2026-03-31"
+    },
+    "2026-04-01": {
+      "steps": 6202,
+      "calories": 2380.0,
+      "distance_m": 5146,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 11,
+      "body_battery_high": 60,
+      "stress_avg": 44,
+      "date": "2026-04-01"
+    },
+    "2026-04-02": {
+      "steps": 4456,
+      "calories": 2432.0,
+      "distance_m": 3706,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 47,
+      "body_battery_high": 60,
+      "stress_avg": 41,
+      "date": "2026-04-02"
+    },
+    "2026-04-03": {
+      "steps": 8775,
+      "calories": 2341.0,
+      "distance_m": 7277,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 47,
+      "body_battery_high": 62,
+      "stress_avg": 36,
+      "date": "2026-04-03"
+    },
+    "2026-04-04": {
+      "steps": 13018,
+      "calories": 2803.0,
+      "distance_m": 11403,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 60,
+      "body_battery_high": 62,
+      "stress_avg": 32,
+      "date": "2026-04-04"
+    },
+    "2026-04-05": {
+      "steps": 12353,
+      "calories": 3030.0,
+      "distance_m": 8936,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 52,
+      "body_battery_high": 60,
+      "stress_avg": 35,
+      "date": "2026-04-05"
+    },
+    "2026-04-06": {
+      "steps": 10466,
+      "calories": 2724.0,
+      "distance_m": 8719,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 0,
+      "body_battery_high": 52,
+      "stress_avg": 41,
+      "date": "2026-04-06"
+    },
+    "2026-04-07": {
+      "steps": 11581,
+      "calories": 2878.0,
+      "distance_m": 9956,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 0,
+      "body_battery_high": 44,
+      "stress_avg": 55,
+      "date": "2026-04-07"
+    },
+    "2026-04-08": {
+      "steps": 22736,
+      "calories": 3565.0,
+      "distance_m": 19731,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 0,
+      "body_battery_high": 44,
+      "stress_avg": 38,
+      "date": "2026-04-08"
+    },
+    "2026-04-09": {
+      "steps": 11687,
+      "calories": 2840.0,
+      "distance_m": 9721,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 0,
+      "body_battery_high": 28,
+      "stress_avg": 46,
+      "date": "2026-04-09"
+    },
+    "2026-04-10": {
+      "steps": 16503,
+      "calories": 3224.0,
+      "distance_m": 13223,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 28,
+      "body_battery_high": 47,
+      "stress_avg": 47,
+      "date": "2026-04-10"
+    },
+    "2026-04-11": {
+      "steps": 17971,
+      "calories": 3101.0,
+      "distance_m": 15191,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 37,
+      "body_battery_high": 47,
+      "stress_avg": 37,
+      "date": "2026-04-11"
+    },
+    "2026-04-12": {
+      "steps": 9810,
+      "calories": 2920.0,
+      "distance_m": 8165,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 37,
+      "body_battery_high": 64,
+      "stress_avg": 41,
+      "date": "2026-04-12"
+    },
+    "2026-04-13": {
+      "steps": 5264,
+      "calories": 2466.0,
+      "distance_m": 4391,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 50,
+      "body_battery_high": 64,
+      "stress_avg": 34,
+      "date": "2026-04-13"
+    },
+    "2026-04-14": {
+      "steps": 10471,
+      "calories": 2743.0,
+      "distance_m": 8430,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 50,
+      "body_battery_high": 54,
+      "stress_avg": 41,
+      "date": "2026-04-14"
+    },
+    "2026-04-15": {
+      "steps": 12030,
+      "calories": 3464.0,
+      "distance_m": 12587,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 18,
+      "body_battery_high": 54,
+      "stress_avg": 46,
+      "date": "2026-04-15"
+    },
+    "2026-04-16": {
+      "steps": 8234,
+      "calories": 2780.0,
+      "distance_m": 6857,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 18,
+      "body_battery_high": 39,
+      "stress_avg": 44,
+      "date": "2026-04-16"
+    },
+    "2026-04-17": {
+      "steps": 10718,
+      "calories": 3019.0,
+      "distance_m": 7091,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 29,
+      "body_battery_high": 39,
+      "stress_avg": 51,
+      "date": "2026-04-17"
+    },
+    "2026-04-18": {
+      "steps": 8340,
+      "calories": 3215.0,
+      "distance_m": 6953,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 29,
+      "body_battery_high": 44,
+      "stress_avg": 46,
+      "date": "2026-04-18"
+    },
+    "2026-04-19": {
+      "steps": 3978,
+      "calories": 2498.0,
+      "distance_m": 3393,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 44,
+      "body_battery_high": 54,
+      "stress_avg": 43,
+      "date": "2026-04-19"
+    },
+    "2026-04-20": {
+      "steps": 3880,
+      "calories": 2459.0,
+      "distance_m": 3253,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 0,
+      "body_battery_high": 54,
+      "stress_avg": 45,
+      "date": "2026-04-20"
+    },
+    "2026-04-21": {
+      "steps": 98,
+      "calories": 655.0,
+      "distance_m": 81,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 0,
+      "body_battery_high": 43,
+      "stress_avg": 67,
+      "date": "2026-04-21"
+    },
+    "2026-04-22": {
+      "steps": 7306,
+      "calories": 2883.0,
+      "distance_m": 6588,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 43,
+      "body_battery_high": 43,
+      "stress_avg": 44,
+      "date": "2026-04-22"
+    },
+    "2026-04-23": {
+      "steps": 14774,
+      "calories": 3196.0,
+      "distance_m": 14538,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 43,
+      "body_battery_high": 44,
+      "stress_avg": 36,
+      "date": "2026-04-23"
+    },
+    "2026-04-24": {
+      "steps": 3338,
+      "calories": 2530.0,
+      "distance_m": 2811,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 44,
+      "body_battery_high": 69,
+      "stress_avg": 40,
+      "date": "2026-04-24"
+    },
+    "2026-04-25": {
+      "steps": 3872,
+      "calories": 2537.0,
+      "distance_m": 3274,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 69,
+      "body_battery_high": 72,
+      "stress_avg": 32,
+      "date": "2026-04-25"
+    },
+    "2026-04-26": {
+      "steps": 16070,
+      "calories": 3407.0,
+      "distance_m": 13876,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 61,
+      "body_battery_high": 72,
+      "stress_avg": 34,
+      "date": "2026-04-26"
+    },
+    "2026-04-27": {
+      "steps": 6249,
+      "calories": 2545.0,
+      "distance_m": 5175,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 40,
+      "body_battery_high": 61,
+      "stress_avg": 35,
+      "date": "2026-04-27"
+    },
+    "2026-04-28": {
+      "steps": 1230,
+      "calories": 2451.0,
+      "distance_m": 1028,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 40,
+      "body_battery_high": 47,
+      "stress_avg": 42,
+      "date": "2026-04-28"
+    },
+    "2026-04-29": {
+      "steps": 10532,
+      "calories": 2757.0,
+      "distance_m": 9332,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 11,
+      "body_battery_high": 47,
+      "stress_avg": 37,
+      "date": "2026-04-29"
+    },
+    "2026-04-30": {
+      "steps": 14381,
+      "calories": 3065.0,
+      "distance_m": 14198,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 11,
+      "body_battery_high": 47,
+      "stress_avg": 41,
+      "date": "2026-04-30"
+    },
+    "2026-05-01": {
+      "steps": 2410,
+      "calories": 2456.0,
+      "distance_m": 2027,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 46,
+      "body_battery_high": 47,
+      "stress_avg": 33,
+      "date": "2026-05-01"
+    },
+    "2026-05-02": {
+      "steps": 5639,
+      "calories": 2555.0,
+      "distance_m": 4691,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 46,
+      "body_battery_high": 57,
+      "stress_avg": 35,
+      "date": "2026-05-02"
+    },
+    "2026-05-03": {
+      "steps": 20507,
+      "calories": 3675.0,
+      "distance_m": 20096,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 54,
+      "body_battery_high": 57,
+      "stress_avg": 37,
+      "date": "2026-05-03"
+    },
+    "2026-05-04": {
+      "steps": 4839,
+      "calories": 2490.0,
+      "distance_m": 4017,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 54,
+      "body_battery_high": 65,
+      "stress_avg": 30,
+      "date": "2026-05-04"
+    },
+    "2026-05-05": {
+      "steps": 14550,
+      "calories": 3226.0,
+      "distance_m": 14877,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 46,
+      "body_battery_high": 65,
+      "stress_avg": 37,
+      "date": "2026-05-05"
+    },
+    "2026-05-06": {
+      "steps": 7261,
+      "calories": 3055.0,
+      "distance_m": 4854,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 10,
+      "body_battery_high": 46,
+      "stress_avg": 45,
+      "date": "2026-05-06"
+    },
+    "2026-05-07": {
+      "steps": 13381,
+      "calories": 3040.0,
+      "distance_m": 13030,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 10,
+      "body_battery_high": 46,
+      "stress_avg": 39,
+      "date": "2026-05-07"
+    },
+    "2026-05-08": {
+      "steps": 4641,
+      "calories": 2461.0,
+      "distance_m": 3901,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 46,
+      "body_battery_high": 46,
+      "stress_avg": 29,
+      "date": "2026-05-08"
+    },
+    "2026-05-09": {
+      "steps": 18395,
+      "calories": 3408.0,
+      "distance_m": 16687,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 46,
+      "body_battery_high": 65,
+      "stress_avg": 33,
+      "date": "2026-05-09"
+    },
+    "2026-05-10": {
+      "steps": 7871,
+      "calories": 2569.0,
+      "distance_m": 6518,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 65,
+      "body_battery_high": 71,
+      "stress_avg": 27,
+      "date": "2026-05-10"
+    },
+    "2026-05-11": {
+      "steps": 13759,
+      "calories": 3200.0,
+      "distance_m": 13296,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 71,
+      "body_battery_high": 79,
+      "stress_avg": 31,
+      "date": "2026-05-11"
+    },
+    "2026-05-12": {
+      "steps": 2410,
+      "calories": 2327.0,
+      "distance_m": 2018,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 43,
+      "body_battery_high": 79,
+      "stress_avg": 27,
+      "date": "2026-05-12"
+    },
+    "2026-05-13": {
+      "steps": 8520,
+      "calories": 2650.0,
+      "distance_m": 7402,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 10,
+      "body_battery_high": 43,
+      "stress_avg": 33,
+      "date": "2026-05-13"
+    },
+    "2026-05-14": {
+      "steps": 14855,
+      "calories": 3077.0,
+      "distance_m": 14240,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 10,
+      "body_battery_high": 58,
+      "stress_avg": 37,
+      "date": "2026-05-14"
+    },
+    "2026-05-15": {
+      "steps": 2645,
+      "calories": 2544.0,
+      "distance_m": 2214,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 58,
+      "body_battery_high": 59,
+      "stress_avg": 38,
+      "date": "2026-05-15"
+    },
+    "2026-05-16": {
+      "steps": 25944,
+      "calories": 4325.0,
+      "distance_m": 25823,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 12,
+      "body_battery_high": 59,
+      "stress_avg": 34,
+      "date": "2026-05-16"
+    },
+    "2026-05-17": {
+      "steps": 7190,
+      "calories": 2780.0,
+      "distance_m": 6088,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 12,
+      "body_battery_high": 55,
+      "stress_avg": 43,
+      "date": "2026-05-17"
+    },
+    "2026-05-18": {
+      "steps": 6703,
+      "calories": 2552.0,
+      "distance_m": 5581,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 55,
+      "body_battery_high": 58,
+      "stress_avg": 35,
+      "date": "2026-05-18"
+    },
+    "2026-05-19": {
+      "steps": 10574,
+      "calories": 3000.0,
+      "distance_m": 10049,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 54,
+      "body_battery_high": 58,
+      "stress_avg": 36,
+      "date": "2026-05-19"
+    },
+    "2026-05-20": {
+      "steps": 7205,
+      "calories": 2852.0,
+      "distance_m": 4608,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 54,
+      "body_battery_high": 57,
+      "stress_avg": 27,
+      "date": "2026-05-20"
+    },
+    "2026-05-21": {
+      "steps": 15258,
+      "calories": 3154.0,
+      "distance_m": 14869,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 57,
+      "body_battery_high": 60,
+      "stress_avg": 34,
+      "date": "2026-05-21"
+    },
+    "2026-05-22": {
+      "steps": 5058,
+      "calories": 2620.0,
+      "distance_m": 4322,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 58,
+      "body_battery_high": 60,
+      "stress_avg": 33,
+      "date": "2026-05-22"
+    },
+    "2026-05-23": {
+      "steps": 11946,
+      "calories": 2896.0,
+      "distance_m": 10138,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 45,
+      "body_battery_high": 58,
+      "stress_avg": 31,
+      "date": "2026-05-23"
+    },
+    "2026-05-24": {
+      "steps": 18339,
+      "calories": 3429.0,
+      "distance_m": 16737,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 45,
+      "body_battery_high": 60,
+      "stress_avg": 37,
+      "date": "2026-05-24"
+    },
+    "2026-05-25": {
+      "steps": 2695,
+      "calories": 2395.0,
+      "distance_m": 2255,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 48,
+      "body_battery_high": 60,
+      "stress_avg": 27,
+      "date": "2026-05-25"
+    },
+    "2026-05-26": {
+      "steps": 1706,
+      "calories": 2305.0,
+      "distance_m": 1430,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 48,
+      "body_battery_high": 72,
+      "stress_avg": 33,
+      "date": "2026-05-26"
+    },
+    "2026-05-27": {
+      "steps": 2459,
+      "calories": 2325.0,
+      "distance_m": 2036,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 62,
+      "body_battery_high": 72,
+      "stress_avg": 29,
+      "date": "2026-05-27"
+    },
+    "2026-05-28": {
+      "steps": 5605,
+      "calories": 2401.0,
+      "distance_m": 4642,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 55,
+      "body_battery_high": 62,
+      "stress_avg": 28,
+      "date": "2026-05-28"
+    },
+    "2026-05-29": {
+      "steps": 11061,
+      "calories": 3000.0,
+      "distance_m": 12683,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 55,
+      "body_battery_high": 55,
+      "stress_avg": 22,
+      "date": "2026-05-29"
+    },
+    "2026-05-30": {
+      "steps": null,
+      "calories": 2153.0,
+      "distance_m": null,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 0,
+      "body_battery_high": 0,
+      "stress_avg": -1,
+      "date": "2026-05-30"
+    },
+    "2026-05-31": {
+      "steps": 30521,
+      "calories": 4307.0,
+      "distance_m": 28390,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 0,
+      "body_battery_high": 7,
+      "stress_avg": 62,
+      "date": "2026-05-31"
+    },
+    "2026-06-01": {
+      "steps": 7322,
+      "calories": 2604.0,
+      "distance_m": 6446,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 7,
+      "body_battery_high": 77,
+      "stress_avg": 36,
+      "date": "2026-06-01"
+    },
+    "2026-06-02": {
+      "steps": 5377,
+      "calories": 2532.0,
+      "distance_m": 4457,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 59,
+      "body_battery_high": 77,
+      "stress_avg": 34,
+      "date": "2026-06-02"
+    },
+    "2026-06-03": {
+      "steps": 5808,
+      "calories": 2807.0,
+      "distance_m": 5221,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 56,
+      "body_battery_high": 59,
+      "stress_avg": 41,
+      "date": "2026-06-03"
+    },
+    "2026-06-04": {
+      "steps": 6019,
+      "calories": 2494.0,
+      "distance_m": 4984,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 56,
+      "body_battery_high": 78,
+      "stress_avg": 33,
+      "date": "2026-06-04"
+    },
+    "2026-06-05": {
+      "steps": 3393,
+      "calories": 2455.0,
+      "distance_m": 2822,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 54,
+      "body_battery_high": 78,
+      "stress_avg": 34,
+      "date": "2026-06-05"
+    },
+    "2026-06-06": {
+      "steps": 6004,
+      "calories": 3217.0,
+      "distance_m": 9524,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 14,
+      "body_battery_high": 54,
+      "stress_avg": 40,
+      "date": "2026-06-06"
+    },
+    "2026-06-07": {
+      "steps": 27814,
+      "calories": 4276.0,
+      "distance_m": 29032,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 14,
+      "body_battery_high": 54,
+      "stress_avg": 49,
+      "date": "2026-06-07"
+    },
+    "2026-06-08": {
+      "steps": 5846,
+      "calories": 2514.0,
+      "distance_m": 4852,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 54,
+      "body_battery_high": 62,
+      "stress_avg": 30,
+      "date": "2026-06-08"
+    },
+    "2026-06-09": {
+      "steps": 4587,
+      "calories": 2430.0,
+      "distance_m": 3799,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 62,
+      "body_battery_high": 64,
+      "stress_avg": 31,
+      "date": "2026-06-09"
+    },
+    "2026-06-10": {
+      "steps": 4293,
+      "calories": 2481.0,
+      "distance_m": 3941,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 58,
+      "body_battery_high": 64,
+      "stress_avg": 37,
+      "date": "2026-06-10"
+    },
+    "2026-06-11": {
+      "steps": 11058,
+      "calories": 3039.0,
+      "distance_m": 11616,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 57,
+      "body_battery_high": 58,
+      "stress_avg": 35,
+      "date": "2026-06-11"
+    },
+    "2026-06-12": {
+      "steps": 2877,
+      "calories": 2369.0,
+      "distance_m": 2432,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 56,
+      "body_battery_high": 57,
+      "stress_avg": 32,
+      "date": "2026-06-12"
+    },
+    "2026-06-13": {
+      "steps": 1553,
+      "calories": 2324.0,
+      "distance_m": 1286,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 24,
+      "body_battery_high": 56,
+      "stress_avg": 20,
+      "date": "2026-06-13"
+    },
+    "2026-06-14": {
+      "steps": 5258,
+      "calories": 2497.0,
+      "distance_m": 4416,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 24,
+      "body_battery_high": 67,
+      "stress_avg": 39,
+      "date": "2026-06-14"
+    },
+    "2026-06-15": {
+      "steps": 7119,
+      "calories": 2492.0,
+      "distance_m": 5895,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 55,
+      "body_battery_high": 67,
+      "stress_avg": 34,
+      "date": "2026-06-15"
+    },
+    "2026-06-16": {
+      "steps": 10657,
+      "calories": 2921.0,
+      "distance_m": 10431,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 50,
+      "body_battery_high": 55,
+      "stress_avg": 37,
+      "date": "2026-06-16"
+    },
+    "2026-06-17": {
+      "steps": 8133,
+      "calories": 2825.0,
+      "distance_m": 5476,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 50,
+      "body_battery_high": 56,
+      "stress_avg": 39,
+      "date": "2026-06-17"
+    },
+    "2026-06-18": {
+      "steps": 13232,
+      "calories": 3066.0,
+      "distance_m": 13011,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 20,
+      "body_battery_high": 56,
+      "stress_avg": 34,
+      "date": "2026-06-18"
+    },
+    "2026-06-19": {
+      "steps": 4116,
+      "calories": 2449.0,
+      "distance_m": 3462,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 20,
+      "body_battery_high": 57,
+      "stress_avg": 40,
+      "date": "2026-06-19"
+    },
+    "2026-06-20": {
+      "steps": 5464,
+      "calories": 2553.0,
+      "distance_m": 4579,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 50,
+      "body_battery_high": 57,
+      "stress_avg": 32,
+      "date": "2026-06-20"
+    },
+    "2026-06-21": {
+      "steps": 23184,
+      "calories": 4169.0,
+      "distance_m": 23979,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 48,
+      "body_battery_high": 50,
+      "stress_avg": 38,
+      "date": "2026-06-21"
+    },
+    "2026-06-22": {
+      "steps": 1818,
+      "calories": 2366.0,
+      "distance_m": 1535,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 48,
+      "body_battery_high": 83,
+      "stress_avg": 32,
+      "date": "2026-06-22"
+    },
+    "2026-06-23": {
+      "steps": 13365,
+      "calories": 3249.0,
+      "distance_m": 14287,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 47,
+      "body_battery_high": 83,
+      "stress_avg": 34,
+      "date": "2026-06-23"
+    },
+    "2026-06-24": {
+      "steps": 10659,
+      "calories": 2849.0,
+      "distance_m": 7793,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 10,
+      "body_battery_high": 47,
+      "stress_avg": 39,
+      "date": "2026-06-24"
+    },
+    "2026-06-25": {
+      "steps": 10001,
+      "calories": 2831.0,
+      "distance_m": 9178,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 10,
+      "body_battery_high": 64,
+      "stress_avg": 41,
+      "date": "2026-06-25"
+    },
+    "2026-06-26": {
+      "steps": 5741,
+      "calories": 2492.0,
+      "distance_m": 4754,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 56,
+      "body_battery_high": 64,
+      "stress_avg": 34,
+      "date": "2026-06-26"
+    },
+    "2026-06-27": {
+      "steps": 4533,
+      "calories": 2464.0,
+      "distance_m": 3779,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 56,
+      "body_battery_high": 80,
+      "stress_avg": 32,
+      "date": "2026-06-27"
+    },
+    "2026-06-28": {
+      "steps": 12154,
+      "calories": 3017.0,
+      "distance_m": 12014,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 45,
+      "body_battery_high": 80,
+      "stress_avg": 31,
+      "date": "2026-06-28"
+    },
+    "2026-06-29": {
+      "steps": 6919,
+      "calories": 2568.0,
+      "distance_m": 5759,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 28,
+      "body_battery_high": 45,
+      "stress_avg": 34,
+      "date": "2026-06-29"
+    },
+    "2026-06-30": {
+      "steps": 8907,
+      "calories": 2833.0,
+      "distance_m": 9046,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 28,
+      "body_battery_high": 51,
+      "stress_avg": 39,
+      "date": "2026-06-30"
+    },
+    "2026-07-01": {
+      "steps": 133,
+      "calories": 682.0,
+      "distance_m": 110,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 51,
+      "body_battery_high": 51,
+      "stress_avg": 12,
+      "date": "2026-07-01"
+    }
+  },
+  "activities": {
+    "2026-06-30": [
+      {
+        "date": "2026-06-30",
+        "name": "Gold Coast Running",
+        "type": "running",
+        "duration_s": 1738.9449462890625,
+        "distance_m": 5516.830078125,
+        "calories": 397.0,
+        "avg_hr": 157.0,
+        "max_hr": 184.0,
+        "avg_power": null,
+        "training_effect_aerobic": 3.5,
+        "training_effect_anaerobic": 1.7999999523162842,
+        "vo2max": 51.0
+      }
+    ],
+    "2026-06-28": [
+      {
+        "date": "2026-06-28",
+        "name": "Gold Coast Running",
+        "type": "running",
+        "duration_s": 3252.68798828125,
+        "distance_m": 9013.7197265625,
+        "calories": 682.0,
+        "avg_hr": 153.0,
+        "max_hr": 170.0,
+        "avg_power": null,
+        "training_effect_aerobic": 3.4000000953674316,
+        "training_effect_anaerobic": 0.0,
+        "vo2max": 51.0
+      }
+    ],
+    "2026-06-25": [
+      {
+        "date": "2026-06-25",
+        "name": "Gold Coast Running",
+        "type": "running",
+        "duration_s": 1886.8409423828125,
+        "distance_m": 5020.9599609375,
+        "calories": 374.0,
+        "avg_hr": 146.0,
+        "max_hr": 166.0,
+        "avg_power": null,
+        "training_effect_aerobic": 2.700000047683716,
+        "training_effect_anaerobic": 0.0,
+        "vo2max": 51.0
+      }
+    ],
+    "2026-06-24": [
+      {
+        "date": "2026-06-24",
+        "name": "Gold Coast Running",
+        "type": "running",
+        "duration_s": 3386.614990234375,
+        "distance_m": 1871.56005859375,
+        "calories": 302.0,
+        "avg_hr": 104.0,
+        "max_hr": 128.0,
+        "avg_power": null,
+        "training_effect_aerobic": 0.8999999761581421,
+        "training_effect_anaerobic": 0.0,
+        "vo2max": null
+      }
+    ],
+    "2026-06-23": [
+      {
+        "date": "2026-06-23",
+        "name": "Gold Coast Running",
+        "type": "running",
+        "duration_s": 2578.304931640625,
+        "distance_m": 9026.01953125,
+        "calories": 631.0,
+        "avg_hr": 169.0,
+        "max_hr": 185.0,
+        "avg_power": null,
+        "training_effect_aerobic": 4.599999904632568,
+        "training_effect_anaerobic": 1.0,
+        "vo2max": 51.0
+      }
+    ],
+    "2026-06-21": [
+      {
+        "date": "2026-06-21",
+        "name": "Gold Coast Running",
+        "type": "running",
+        "duration_s": 7012.2841796875,
+        "distance_m": 20034.4609375,
+        "calories": 1458.0,
+        "avg_hr": 150.0,
+        "max_hr": 175.0,
+        "avg_power": null,
+        "training_effect_aerobic": 4.599999904632568,
+        "training_effect_anaerobic": 0.0,
+        "vo2max": 51.0
+      }
+    ],
+    "2026-06-18": [
+      {
+        "date": "2026-06-18",
+        "name": "Gold Coast Running",
+        "type": "running",
+        "duration_s": 3244.87109375,
+        "distance_m": 9015.1796875,
+        "calories": 657.0,
+        "avg_hr": 151.0,
+        "max_hr": 170.0,
+        "avg_power": null,
+        "training_effect_aerobic": 3.4000000953674316,
+        "training_effect_anaerobic": 0.10000000149011612,
+        "vo2max": 50.0
+      }
+    ],
+    "2026-06-17": [
+      {
+        "date": "2026-06-17",
+        "name": "Gold Coast Running",
+        "type": "running",
+        "duration_s": 4578.25390625,
+        "distance_m": 2302.31005859375,
+        "calories": 417.0,
+        "avg_hr": 106.0,
+        "max_hr": 143.0,
+        "avg_power": null,
+        "training_effect_aerobic": 1.2999999523162842,
+        "training_effect_anaerobic": 0.0,
+        "vo2max": null
+      }
+    ],
+    "2026-06-16": [
+      {
+        "date": "2026-06-16",
+        "name": "Gold Coast Running",
+        "type": "running",
+        "duration_s": 1492.4620361328125,
+        "distance_m": 5012.43017578125,
+        "calories": 356.0,
+        "avg_hr": 161.0,
+        "max_hr": 181.0,
+        "avg_power": null,
+        "training_effect_aerobic": 3.4000000953674316,
+        "training_effect_anaerobic": 0.5,
+        "vo2max": 50.0
+      }
+    ],
+    "2026-06-11": [
+      {
+        "date": "2026-06-11",
+        "name": "Gold Coast Running",
+        "type": "running",
+        "duration_s": 2146.386962890625,
+        "distance_m": 7030.490234375,
+        "calories": 531.0,
+        "avg_hr": 169.0,
+        "max_hr": 183.0,
+        "avg_power": null,
+        "training_effect_aerobic": 4.099999904632568,
+        "training_effect_anaerobic": 0.0,
+        "vo2max": 50.0
+      }
+    ],
+    "2026-06-07": [
+      {
+        "date": "2026-06-07",
+        "name": "Gold Coast Running",
+        "type": "running",
+        "duration_s": 6980.44189453125,
+        "distance_m": 21237.080078125,
+        "calories": 1645.0,
+        "avg_hr": 167.0,
+        "max_hr": 179.0,
+        "avg_power": null,
+        "training_effect_aerobic": 5.0,
+        "training_effect_anaerobic": 0.0,
+        "vo2max": 50.0
+      }
+    ],
+    "2026-06-06": [
+      {
+        "date": "2026-06-06",
+        "name": "Gold Coast Running",
+        "type": "running",
+        "duration_s": 1588.7960205078125,
+        "distance_m": 4912.43994140625,
+        "calories": 379.0,
+        "avg_hr": 162.0,
+        "max_hr": 182.0,
+        "avg_power": null,
+        "training_effect_aerobic": 3.5,
+        "training_effect_anaerobic": 1.7999999523162842,
+        "vo2max": 50.0
+      }
+    ],
+    "2026-05-31": [
+      {
+        "date": "2026-05-31",
+        "name": "Gold Coast Running",
+        "type": "running",
+        "duration_s": 10134.83203125,
+        "distance_m": 24555.330078125,
+        "calories": 1829.0,
+        "avg_hr": 141.0,
+        "max_hr": 170.0,
+        "avg_power": null,
+        "training_effect_aerobic": 4.099999904632568,
+        "training_effect_anaerobic": 0.0,
+        "vo2max": 50.0
+      }
+    ],
+    "2026-05-29": [
+      {
+        "date": "2026-05-29",
+        "name": "Gold Coast Running",
+        "type": "running",
+        "duration_s": 2939.25,
+        "distance_m": 10037.240234375,
+        "calories": 738.0,
+        "avg_hr": 173.0,
+        "max_hr": 184.0,
+        "avg_power": null,
+        "training_effect_aerobic": 5.0,
+        "training_effect_anaerobic": 0.0,
+        "vo2max": 50.0
+      }
+    ],
+    "2026-05-24": [
+      {
+        "date": "2026-05-24",
+        "name": "Evans Head Running",
+        "type": "running",
+        "duration_s": 5408.5458984375,
+        "distance_m": 12935.1103515625,
+        "calories": 974.0,
+        "avg_hr": 137.0,
+        "max_hr": 152.0,
+        "avg_power": null,
+        "training_effect_aerobic": 3.200000047683716,
+        "training_effect_anaerobic": 0.0,
+        "vo2max": 50.0
+      }
+    ],
+    "2026-05-21": [
+      {
+        "date": "2026-05-21",
+        "name": "Gold Coast Running",
+        "type": "running",
+        "duration_s": 3192.970947265625,
+        "distance_m": 9008.830078125,
+        "calories": 670.0,
+        "avg_hr": 149.0,
+        "max_hr": 166.0,
+        "avg_power": null,
+        "training_effect_aerobic": 3.5999999046325684,
+        "training_effect_anaerobic": 0.0,
+        "vo2max": 50.0
+      }
+    ],
+    "2026-05-20": [
+      {
+        "date": "2026-05-20",
+        "name": "Gold Coast Running",
+        "type": "running",
+        "duration_s": 5460.19677734375,
+        "distance_m": 2673.889892578125,
+        "calories": 611.0,
+        "avg_hr": 119.0,
+        "max_hr": 155.0,
+        "avg_power": null,
+        "training_effect_aerobic": 2.0999999046325684,
+        "training_effect_anaerobic": 0.0,
+        "vo2max": null
+      }
+    ],
+    "2026-05-19": [
+      {
+        "date": "2026-05-19",
+        "name": "Gold Coast Running",
+        "type": "running",
+        "duration_s": 1414.001953125,
+        "distance_m": 4333.60009765625,
+        "calories": 336.0,
+        "avg_hr": 160.0,
+        "max_hr": 177.0,
+        "avg_power": null,
+        "training_effect_aerobic": 3.4000000953674316,
+        "training_effect_anaerobic": 1.100000023841858,
+        "vo2max": 50.0
+      }
+    ],
+    "2026-05-16": [
+      {
+        "date": "2026-05-16",
+        "name": "Gold Coast Running",
+        "type": "running",
+        "duration_s": 8552.40625,
+        "distance_m": 22305.859375,
+        "calories": 1769.0,
+        "avg_hr": 158.0,
+        "max_hr": 183.0,
+        "avg_power": null,
+        "training_effect_aerobic": 5.0,
+        "training_effect_anaerobic": 0.0,
+        "vo2max": 50.0
+      }
+    ],
+    "2026-05-14": [
+      {
+        "date": "2026-05-14",
+        "name": "Gold Coast Running",
+        "type": "running",
+        "duration_s": 3353.5869140625,
+        "distance_m": 9008.7998046875,
+        "calories": 684.0,
+        "avg_hr": 151.0,
+        "max_hr": 168.0,
+        "avg_power": null,
+        "training_effect_aerobic": 3.700000047683716,
+        "training_effect_anaerobic": 0.0,
+        "vo2max": 50.0
+      }
+    ],
+    "2026-05-11": [
+      {
+        "date": "2026-05-11",
+        "name": "Gold Coast Running",
+        "type": "running",
+        "duration_s": 1447.3570556640625,
+        "distance_m": 4022.77001953125,
+        "calories": 339.0,
+        "avg_hr": 161.0,
+        "max_hr": 181.0,
+        "avg_power": null,
+        "training_effect_aerobic": 3.5999999046325684,
+        "training_effect_anaerobic": 2.0,
+        "vo2max": 50.0
+      }
+    ],
+    "2026-05-09": [
+      {
+        "date": "2026-05-09",
+        "name": "Gold Coast Running",
+        "type": "running",
+        "duration_s": 4956.91796875,
+        "distance_m": 11008.7900390625,
+        "calories": 824.0,
+        "avg_hr": 137.0,
+        "max_hr": 154.0,
+        "avg_power": null,
+        "training_effect_aerobic": 3.0999999046325684,
+        "training_effect_anaerobic": 0.0,
+        "vo2max": 49.0
+      }
+    ],
+    "2026-05-07": [
+      {
+        "date": "2026-05-07",
+        "name": "Gold Coast Running",
+        "type": "running",
+        "duration_s": 3241.987060546875,
+        "distance_m": 9008.9599609375,
+        "calories": 666.0,
+        "avg_hr": 150.0,
+        "max_hr": 165.0,
+        "avg_power": null,
+        "training_effect_aerobic": 3.5,
+        "training_effect_anaerobic": 0.0,
+        "vo2max": 49.0
+      }
+    ],
+    "2026-05-06": [
+      {
+        "date": "2026-05-06",
+        "name": "Gold Coast Running",
+        "type": "running",
+        "duration_s": 5435.51416015625,
+        "distance_m": 2398.22998046875,
+        "calories": 569.0,
+        "avg_hr": 118.0,
+        "max_hr": 149.0,
+        "avg_power": null,
+        "training_effect_aerobic": 2.0999999046325684,
+        "training_effect_anaerobic": 0.0,
+        "vo2max": null
+      }
+    ],
+    "2026-05-05": [
+      {
+        "date": "2026-05-05",
+        "name": "Gold Coast Running",
+        "type": "running",
+        "duration_s": 2781.714111328125,
+        "distance_m": 9009.8603515625,
+        "calories": 679.0,
+        "avg_hr": 173.0,
+        "max_hr": 185.0,
+        "avg_power": null,
+        "training_effect_aerobic": 5.0,
+        "training_effect_anaerobic": 0.6000000238418579,
+        "vo2max": 49.0
+      }
+    ],
+    "2026-05-03": [
+      {
+        "date": "2026-05-03",
+        "name": "Lismore Running",
+        "type": "running",
+        "duration_s": 6582.5869140625,
+        "distance_m": 17016.939453125,
+        "calories": 1294.0,
+        "avg_hr": 152.0,
+        "max_hr": 173.0,
+        "avg_power": null,
+        "training_effect_aerobic": 4.300000190734863,
+        "training_effect_anaerobic": 0.0,
+        "vo2max": 49.0
+      }
+    ],
+    "2026-04-30": [
+      {
+        "date": "2026-04-30",
+        "name": "Gold Coast Running",
+        "type": "running",
+        "duration_s": 3169.43896484375,
+        "distance_m": 9008.2998046875,
+        "calories": 699.0,
+        "avg_hr": 160.0,
+        "max_hr": 170.0,
+        "avg_power": null,
+        "training_effect_aerobic": 4.199999809265137,
+        "training_effect_anaerobic": 0.0,
+        "vo2max": 49.0
+      }
+    ],
+    "2026-04-26": [
+      {
+        "date": "2026-04-26",
+        "name": "Gold Coast Running",
+        "type": "running",
+        "duration_s": 4511.07421875,
+        "distance_m": 10018.849609375,
+        "calories": 740.0,
+        "avg_hr": 141.0,
+        "max_hr": 160.0,
+        "avg_power": null,
+        "training_effect_aerobic": 3.0,
+        "training_effect_anaerobic": 0.0,
+        "vo2max": 49.0
+      }
+    ],
+    "2026-04-23": [
+      {
+        "date": "2026-04-23",
+        "name": "Gold Coast Running",
+        "type": "running",
+        "duration_s": 3111.717041015625,
+        "distance_m": 9008.4404296875,
+        "calories": 691.0,
+        "avg_hr": 163.0,
+        "max_hr": 174.0,
+        "avg_power": null,
+        "training_effect_aerobic": 4.300000190734863,
+        "training_effect_anaerobic": 0.0,
+        "vo2max": 49.0
+      }
+    ],
+    "2026-04-17": [
+      {
+        "date": "2026-04-17",
+        "name": "Glen Dhu Walking",
+        "type": "walking",
+        "duration_s": 6736.31494140625,
+        "distance_m": 4841.6201171875,
+        "calories": 568.0,
+        "avg_hr": 105.0,
+        "max_hr": 143.0,
+        "avg_power": null,
+        "training_effect_aerobic": 1.7000000476837158,
+        "training_effect_anaerobic": 0.0,
+        "vo2max": 49.0
+      }
+    ],
+    "2026-04-15": [
+      {
+        "date": "2026-04-15",
+        "name": "Te Anau Running",
+        "type": "running",
+        "duration_s": 1429.35302734375,
+        "distance_m": 5016.97021484375,
+        "calories": 362.0,
+        "avg_hr": 167.0,
+        "max_hr": 191.0,
+        "avg_power": null,
+        "training_effect_aerobic": 4.300000190734863,
+        "training_effect_anaerobic": 2.200000047683716,
+        "vo2max": 49.0
+      }
+    ],
+    "2026-04-14": [
+      {
+        "date": "2026-04-14",
+        "name": "Milford Sound Walking",
+        "type": "walking",
+        "duration_s": 2464.56689453125,
+        "distance_m": 1449.81005859375,
+        "calories": 161.0,
+        "avg_hr": 89.0,
+        "max_hr": 102.0,
+        "avg_power": null,
+        "training_effect_aerobic": 0.20000000298023224,
+        "training_effect_anaerobic": 0.0,
+        "vo2max": null
+      }
+    ],
+    "2026-04-11": [
+      {
+        "date": "2026-04-11",
+        "name": "Sunshine Bay Running",
+        "type": "running",
+        "duration_s": 3129.910888671875,
+        "distance_m": 5825.93994140625,
+        "calories": 495.0,
+        "avg_hr": 135.0,
+        "max_hr": 156.0,
+        "avg_power": null,
+        "training_effect_aerobic": 3.0,
+        "training_effect_anaerobic": 0.20000000298023224,
+        "vo2max": null
+      }
+    ],
+    "2026-04-10": [
+      {
+        "date": "2026-04-10",
+        "name": "Glenorchy Walking",
+        "type": "walking",
+        "duration_s": 6293.791015625,
+        "distance_m": 6779.18994140625,
+        "calories": 543.0,
+        "avg_hr": 106.0,
+        "max_hr": 126.0,
+        "avg_power": null,
+        "training_effect_aerobic": 0.699999988079071,
+        "training_effect_anaerobic": 0.0,
+        "vo2max": null
+      },
+      {
+        "date": "2026-04-10",
+        "name": "Glenorchy Walking",
+        "type": "walking",
+        "duration_s": 708.5390014648438,
+        "distance_m": 1268.5400390625,
+        "calories": 92.0,
+        "avg_hr": 100.0,
+        "max_hr": 149.0,
+        "avg_power": null,
+        "training_effect_aerobic": 2.0,
+        "training_effect_anaerobic": 0.0,
+        "vo2max": null
+      }
+    ],
+    "2026-04-08": [
+      {
+        "date": "2026-04-08",
+        "name": "Invercargill Running",
+        "type": "running",
+        "duration_s": 6401.09423828125,
+        "distance_m": 12658.4501953125,
+        "calories": 1035.0,
+        "avg_hr": 140.0,
+        "max_hr": 170.0,
+        "avg_power": null,
+        "training_effect_aerobic": 3.700000047683716,
+        "training_effect_anaerobic": 0.0,
+        "vo2max": 49.0
+      }
+    ],
+    "2026-04-07": [
+      {
+        "date": "2026-04-07",
+        "name": "Dunedin Walking",
+        "type": "walking",
+        "duration_s": 3280.825927734375,
+        "distance_m": 3274.68994140625,
+        "calories": 282.0,
+        "avg_hr": 102.0,
+        "max_hr": 123.0,
+        "avg_power": null,
+        "training_effect_aerobic": 0.8999999761581421,
+        "training_effect_anaerobic": 0.0,
+        "vo2max": null
+      }
+    ],
+    "2026-04-05": [
+      {
+        "date": "2026-04-05",
+        "name": "Mount Cook Walking",
+        "type": "walking",
+        "duration_s": 4217.341796875,
+        "distance_m": 1643.4300537109375,
+        "calories": 310.0,
+        "avg_hr": 94.0,
+        "max_hr": 130.0,
+        "avg_power": null,
+        "training_effect_aerobic": 0.699999988079071,
+        "training_effect_anaerobic": 0.0,
+        "vo2max": null
+      },
+      {
+        "date": "2026-04-05",
+        "name": "Mount Cook Walking",
+        "type": "walking",
+        "duration_s": 5342.51708984375,
+        "distance_m": 4382.60009765625,
+        "calories": 396.0,
+        "avg_hr": 93.0,
+        "max_hr": 121.0,
+        "avg_power": null,
+        "training_effect_aerobic": 0.5,
+        "training_effect_anaerobic": 0.0,
+        "vo2max": null
+      }
+    ],
+    "2026-04-04": [
+      {
+        "date": "2026-04-04",
+        "name": "Christchurch Running",
+        "type": "running",
+        "duration_s": 1390.595947265625,
+        "distance_m": 3512.080078125,
+        "calories": 268.0,
+        "avg_hr": 144.0,
+        "max_hr": 166.0,
+        "avg_power": null,
+        "training_effect_aerobic": 2.799999952316284,
+        "training_effect_anaerobic": 0.0,
+        "vo2max": null
+      }
+    ],
+    "2026-03-31": [
+      {
+        "date": "2026-03-31",
+        "name": "Gold Coast Running",
+        "type": "running",
+        "duration_s": 3207.693115234375,
+        "distance_m": 9008.66015625,
+        "calories": 674.0,
+        "avg_hr": 156.0,
+        "max_hr": 173.0,
+        "avg_power": null,
+        "training_effect_aerobic": 4.0,
+        "training_effect_anaerobic": 0.0,
+        "vo2max": 49.0
+      }
+    ],
+    "2026-03-24": [
+      {
+        "date": "2026-03-24",
+        "name": "Gold Coast Running",
+        "type": "running",
+        "duration_s": 5072.60302734375,
+        "distance_m": 14132.3095703125,
+        "calories": 1098.0,
+        "avg_hr": 162.0,
+        "max_hr": 175.0,
+        "avg_power": null,
+        "training_effect_aerobic": 5.0,
+        "training_effect_anaerobic": 0.0,
+        "vo2max": 49.0
+      }
+    ],
+    "2026-03-21": [
+      {
+        "date": "2026-03-21",
+        "name": "Gold Coast Running",
+        "type": "running",
+        "duration_s": 1750.43798828125,
+        "distance_m": 5010.580078125,
+        "calories": 397.0,
+        "avg_hr": 167.0,
+        "max_hr": 192.0,
+        "avg_power": null,
+        "training_effect_aerobic": 3.9000000953674316,
+        "training_effect_anaerobic": 0.4000000059604645,
+        "vo2max": 48.0
+      }
+    ],
+    "2026-03-19": [
+      {
+        "date": "2026-03-19",
+        "name": "Gold Coast Running",
+        "type": "running",
+        "duration_s": 3316.800048828125,
+        "distance_m": 9004.740234375,
+        "calories": 686.0,
+        "avg_hr": 158.0,
+        "max_hr": 171.0,
+        "avg_power": null,
+        "training_effect_aerobic": 4.0,
+        "training_effect_anaerobic": 0.0,
+        "vo2max": 48.0
+      }
+    ],
+    "2026-03-16": [
+      {
+        "date": "2026-03-16",
+        "name": "Tennis",
+        "type": "tennis_v2",
+        "duration_s": 3688.991943359375,
+        "distance_m": 405.2200012207031,
+        "calories": 407.0,
+        "avg_hr": 114.0,
+        "max_hr": 140.0,
+        "avg_power": null,
+        "training_effect_aerobic": 2.0,
+        "training_effect_anaerobic": 0.0,
+        "vo2max": null
+      }
+    ],
+    "2026-03-12": [
+      {
+        "date": "2026-03-12",
+        "name": "Gold Coast Running",
+        "type": "running",
+        "duration_s": 3362.64697265625,
+        "distance_m": 9012.25,
+        "calories": 727.0,
+        "avg_hr": 160.0,
+        "max_hr": 180.0,
+        "avg_power": null,
+        "training_effect_aerobic": 4.099999904632568,
+        "training_effect_anaerobic": 0.0,
+        "vo2max": 48.0
+      }
+    ],
+    "2026-03-05": [
+      {
+        "date": "2026-03-05",
+        "name": "Gold Coast Running",
+        "type": "running",
+        "duration_s": 3309.14208984375,
+        "distance_m": 9012.23046875,
+        "calories": 695.0,
+        "avg_hr": 158.0,
+        "max_hr": 174.0,
+        "avg_power": null,
+        "training_effect_aerobic": 4.0,
+        "training_effect_anaerobic": 0.0,
+        "vo2max": 48.0
+      }
+    ],
+    "2026-02-28": [
+      {
+        "date": "2026-02-28",
+        "name": "Gold Coast Running",
+        "type": "running",
+        "duration_s": 2431.623046875,
+        "distance_m": 7025.27978515625,
+        "calories": 551.0,
+        "avg_hr": 166.0,
+        "max_hr": 186.0,
+        "avg_power": null,
+        "training_effect_aerobic": 4.300000190734863,
+        "training_effect_anaerobic": 0.20000000298023224,
+        "vo2max": 48.0
+      }
+    ],
+    "2026-02-26": [
+      {
+        "date": "2026-02-26",
+        "name": "Gold Coast Running",
+        "type": "running",
+        "duration_s": 3351.60791015625,
+        "distance_m": 9017.419921875,
+        "calories": 684.0,
+        "avg_hr": 157.0,
+        "max_hr": 169.0,
+        "avg_power": null,
+        "training_effect_aerobic": 3.799999952316284,
+        "training_effect_anaerobic": 0.0,
+        "vo2max": 48.0
+      }
+    ],
+    "2026-02-21": [
+      {
+        "date": "2026-02-21",
+        "name": "Gold Coast Running",
+        "type": "running",
+        "duration_s": 2135.5029296875,
+        "distance_m": 6015.83984375,
+        "calories": 494.0,
+        "avg_hr": 178.0,
+        "max_hr": 185.0,
+        "avg_power": null,
+        "training_effect_aerobic": 4.199999809265137,
+        "training_effect_anaerobic": 1.100000023841858,
+        "vo2max": 48.0
+      }
+    ],
+    "2026-02-19": [
+      {
+        "date": "2026-02-19",
+        "name": "Gold Coast Running",
+        "type": "running",
+        "duration_s": 3300.073974609375,
+        "distance_m": 9010.5,
+        "calories": 744.0,
+        "avg_hr": 171.0,
+        "max_hr": 185.0,
+        "avg_power": null,
+        "training_effect_aerobic": 4.699999809265137,
+        "training_effect_anaerobic": 0.699999988079071,
+        "vo2max": 48.0
+      }
+    ],
+    "2026-02-12": [
+      {
+        "date": "2026-02-12",
+        "name": "Gold Coast Running",
+        "type": "running",
+        "duration_s": 3320.804931640625,
+        "distance_m": 9007.2900390625,
+        "calories": 723.0,
+        "avg_hr": 165.0,
+        "max_hr": 179.0,
+        "avg_power": null,
+        "training_effect_aerobic": 4.199999809265137,
+        "training_effect_anaerobic": 0.0,
+        "vo2max": 48.0
+      }
+    ],
+    "2026-02-05": [
+      {
+        "date": "2026-02-05",
+        "name": "Gold Coast Running",
+        "type": "running",
+        "duration_s": 3401.218994140625,
+        "distance_m": 9011.349609375,
+        "calories": 730.0,
+        "avg_hr": 161.0,
+        "max_hr": 181.0,
+        "avg_power": null,
+        "training_effect_aerobic": 3.9000000953674316,
+        "training_effect_anaerobic": 0.5,
+        "vo2max": 48.0
+      }
+    ],
+    "2026-01-29": [
+      {
+        "date": "2026-01-29",
+        "name": "Gold Coast Running",
+        "type": "running",
+        "duration_s": 1855.802978515625,
+        "distance_m": 5243.39990234375,
+        "calories": 409.0,
+        "avg_hr": 162.0,
+        "max_hr": 175.0,
+        "avg_power": null,
+        "training_effect_aerobic": 3.5,
+        "training_effect_anaerobic": 0.0,
+        "vo2max": 48.0
+      }
+    ],
+    "2026-01-24": [
+      {
+        "date": "2026-01-24",
+        "name": "Noosa Running",
+        "type": "running",
+        "duration_s": 1841.8199462890625,
+        "distance_m": 5238.3798828125,
+        "calories": 424.0,
+        "avg_hr": 164.0,
+        "max_hr": 182.0,
+        "avg_power": null,
+        "training_effect_aerobic": 4.0,
+        "training_effect_anaerobic": 0.30000001192092896,
+        "vo2max": 48.0
+      }
+    ],
+    "2026-01-22": [
+      {
+        "date": "2026-01-22",
+        "name": "Gold Coast Running",
+        "type": "running",
+        "duration_s": 3436.556884765625,
+        "distance_m": 9012.76953125,
+        "calories": 742.0,
+        "avg_hr": 162.0,
+        "max_hr": 179.0,
+        "avg_power": null,
+        "training_effect_aerobic": 4.300000190734863,
+        "training_effect_anaerobic": 0.0,
+        "vo2max": 48.0
+      }
+    ],
+    "2026-01-17": [
+      {
+        "date": "2026-01-17",
+        "name": "Gold Coast Running",
+        "type": "running",
+        "duration_s": 1635.583984375,
+        "distance_m": 5009.10009765625,
+        "calories": 407.0,
+        "avg_hr": 178.0,
+        "max_hr": 195.0,
+        "avg_power": null,
+        "training_effect_aerobic": 4.400000095367432,
+        "training_effect_anaerobic": 0.8999999761581421,
+        "vo2max": 48.0
+      }
+    ],
+    "2026-01-15": [
+      {
+        "date": "2026-01-15",
+        "name": "Gold Coast Running",
+        "type": "running",
+        "duration_s": 3423.7080078125,
+        "distance_m": 9007.240234375,
+        "calories": 739.0,
+        "avg_hr": 163.0,
+        "max_hr": 176.0,
+        "avg_power": null,
+        "training_effect_aerobic": 4.199999809265137,
+        "training_effect_anaerobic": 0.0,
+        "vo2max": 48.0
+      }
+    ],
+    "2026-01-11": [
+      {
+        "date": "2026-01-11",
+        "name": "Gold Coast Running",
+        "type": "running",
+        "duration_s": 1429.166015625,
+        "distance_m": 3005.93994140625,
+        "calories": 225.0,
+        "avg_hr": 138.0,
+        "max_hr": 162.0,
+        "avg_power": null,
+        "training_effect_aerobic": 2.0999999046325684,
+        "training_effect_anaerobic": 0.0,
+        "vo2max": 48.0
+      }
+    ],
+    "2026-01-10": [
+      {
+        "date": "2026-01-10",
+        "name": "Gold Coast Running",
+        "type": "running",
+        "duration_s": 1627.552001953125,
+        "distance_m": 5012.14990234375,
+        "calories": 399.0,
+        "avg_hr": 183.0,
+        "max_hr": 196.0,
+        "avg_power": null,
+        "training_effect_aerobic": 4.699999809265137,
+        "training_effect_anaerobic": 0.5,
+        "vo2max": 48.0
+      }
+    ],
+    "2026-01-08": [
+      {
+        "date": "2026-01-08",
+        "name": "Gold Coast Running",
+        "type": "running",
+        "duration_s": 3335.35400390625,
+        "distance_m": 9008.580078125,
+        "calories": 755.0,
+        "avg_hr": 177.0,
+        "max_hr": 191.0,
+        "avg_power": null,
+        "training_effect_aerobic": 5.0,
+        "training_effect_anaerobic": 1.600000023841858,
+        "vo2max": 48.0
+      }
+    ]
+  }
+}

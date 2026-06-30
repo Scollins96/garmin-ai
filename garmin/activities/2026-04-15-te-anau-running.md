@@ -1,0 +1,11 @@
+# Te Anau Running
+- Type: running
+- Date: 2026-04-15
+- Duration: 23m 49s
+- Distance: 5.02 km
+- Calories: 362.0
+- Avg HR: 167.0 bpm
+- Max HR: 191.0 bpm
+- Aerobic TE: 4.300000190734863
+- Anaerobic TE: 2.200000047683716
+- VO2max: 49.0
