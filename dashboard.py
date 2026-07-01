@@ -48,11 +48,7 @@ def build_act_df(activities):
             "anaerobic_te": a.get("training_effect_anaerobic"),
         })
     df = pd.DataFrame(rows).sort_values("date").reset_index(drop=True)
-    df["run_type"] = df.apply(
-        lambda r: classify_run(r["distance_km"], r["aerobic_te"], r["duration_min"])
-        if r["type"] == "running" else r["type"].title(),
-        axis=1,
-    )
+    df["run_type"] = df.apply(classify_activity, axis=1)
     return df
 
 
@@ -140,18 +136,42 @@ def training_paces(vo2max):
 
 
 # ── Run classification ────────────────────────────────────────────────────────
-def classify_run(dist_km, aerobic_te, duration_min):
+GARMIN_TYPE_LABELS = {
+    "tennis_v2": "Tennis",
+    "tennis": "Tennis",
+    "walking": "Walking",
+    "hiking": "Hiking",
+    "cycling": "Cycling",
+    "swimming": "Swimming",
+    "strength_training": "Strength",
+    "yoga": "Yoga",
+}
+
+def classify_activity(row):
     """
-    Classify a run using Garmin's aerobic training effect + distance.
-    TE 1-2 = recovery/base, 2-3 = base/easy, 3-4 = improving, 4-5 = hard/tempo.
-    Long run overrides effort label for distance >= 14 km.
+    Classify an activity into a display type.
+    Detects mis-labelled 'running' activities by pace (> 12 min/km = not running).
     """
-    if dist_km >= 14:
+    garmin_type = (row.get("type") or "").lower()
+    pace = row.get("pace_min_km")
+    dist = row.get("distance_km", 0)
+    aerobic_te = row.get("aerobic_te")
+
+    # Known non-running types
+    if garmin_type in GARMIN_TYPE_LABELS:
+        return GARMIN_TYPE_LABELS[garmin_type]
+    if garmin_type not in ("running",):
+        return garmin_type.replace("_", " ").title()
+
+    # Garmin says "running" but pace is unrealistic — treat as walking/other
+    if pace and pace > 12:
+        return "Walking / Other"
+
+    # Genuine running — classify by effort
+    if dist >= 14:
         return "Long Run"
     if aerobic_te is None:
-        if dist_km >= 10:
-            return "Long Run"
-        return "Easy"
+        return "Easy / Recovery"
     if aerobic_te >= 4.0:
         return "Tempo / Hard"
     if aerobic_te >= 3.0:
@@ -160,10 +180,14 @@ def classify_run(dist_km, aerobic_te, duration_min):
 
 
 RUN_TYPE_COLORS = {
-    "Long Run":       "#f59e0b",
-    "Tempo / Hard":   "#ef4444",
-    "Moderate":       "#3b82f6",
+    "Long Run":        "#f59e0b",
+    "Tempo / Hard":    "#ef4444",
+    "Moderate":        "#3b82f6",
     "Easy / Recovery": "#10b981",
+    "Walking / Other": "#94a3b8",
+    "Walking":         "#94a3b8",
+    "Tennis":          "#a78bfa",
+    "Hiking":          "#6ee7b7",
 }
 
 
@@ -401,7 +425,9 @@ def auto_analysis(act_df, well_df, focus="general"):
 activities, wellness = load_data()
 act_df = build_act_df(activities)
 well_df = build_well_df(wellness)
-runs_df = act_df[act_df["type"] == "running"].copy()
+runs_df = act_df[act_df["run_type"].isin(
+    ["Easy / Recovery", "Moderate", "Long Run", "Tempo / Hard"]
+)].copy()
 
 weekly_agg = (runs_df.groupby(runs_df["date"].dt.to_period("W").dt.start_time)
               .agg(volume_km=("distance_km", "sum"),
