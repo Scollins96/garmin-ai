@@ -1986,21 +1986,32 @@
       "distance_m": 4278,
       "hrv": null,
       "sleep_score": null,
-      "body_battery_low": 42,
-      "body_battery_high": 62,
+      "body_battery_low": 62,
+      "body_battery_high": 79,
       "stress_avg": 36,
       "date": "2026-07-02"
     },
     "2026-07-03": {
-      "steps": 204,
-      "calories": 693.0,
-      "distance_m": 185,
+      "steps": 1296,
+      "calories": 2312.0,
+      "distance_m": 1090,
       "hrv": null,
       "sleep_score": null,
-      "body_battery_low": 42,
-      "body_battery_high": 42,
-      "stress_avg": 19,
+      "body_battery_low": 37,
+      "body_battery_high": 79,
+      "stress_avg": 28,
       "date": "2026-07-03"
+    },
+    "2026-07-04": {
+      "steps": 26489,
+      "calories": 3570.0,
+      "distance_m": 29055,
+      "hrv": null,
+      "sleep_score": null,
+      "body_battery_low": 37,
+      "body_battery_high": 37,
+      "stress_avg": 49,
+      "date": "2026-07-04"
     }
   },
   "activities": {
@@ -3030,6 +3041,22 @@
         "training_effect_aerobic": 5.0,
         "training_effect_anaerobic": 1.600000023841858,
         "vo2max": 48.0
+      }
+    ],
+    "2026-07-04": [
+      {
+        "date": "2026-07-04",
+        "name": "Gold Coast Running",
+        "type": "running",
+        "duration_s": 6248.044921875,
+        "distance_m": 21141.970703125,
+        "calories": 1527.0,
+        "avg_hr": 172.0,
+        "max_hr": 182.0,
+        "avg_power": null,
+        "training_effect_aerobic": 5.0,
+        "training_effect_anaerobic": 0.0,
+        "vo2max": 51.0
       }
     ]
   }
